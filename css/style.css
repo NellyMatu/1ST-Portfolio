@@ -1,0 +1,86 @@
+header h1{
+    text-align: center;
+    color:maroon ;
+    
+}
+header{
+    background-color: black;
+    margin-top: 2.45%;
+    font-size: 200%;
+    text-size-adjust: 200px;
+        
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:mediumorchid;
+    margin-top: -2%;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-left: 2px solid white;
+    font-family: sans-serif;
+    
+}
+body{
+    background-color: orchid;
+    margin: 0;
+    padding: 0;
+    height: 800px;
+}
+#info{
+    margin-left: -5%;
+    margin-top: 10%;
+    text-align: center;
+    text-size-adjust: 200%;
+    t
+
+}
+#info h1{
+    font-size: 39px;
+    color: indigo;
+    text-decoration: solid;
+}
+#info h3{
+    font-size: 2opx;    
+    line-height:24px ;
+}
+#info span{
+    color: brown;
+}
+.ty{
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    margin-top: 0%;
+    border-radius: 50%;
+    border: 2px solid black;
+  
+
+
+}
+#about span{
+    color: brown;
+    text-decoration: underline;
+}
+
+
+
+#about{
+    margin-left: 89%;
+    margin-top: 5%;
+    font-weight: 500;
+    
+}
+#footer{
+    margin-top: -10%;
+    margin-left: 5%;
+    margin-bottom: 200% ;
+    font-size: 110%;
+    font-weight: 800;
+}
