@@ -31,7 +31,7 @@ body{
     background-color: orchid;
     margin: 0;
     padding: 0;
-    height: 800px;
+    height: 700px;
 }
 #info{
     margin-left: -5%;
@@ -55,7 +55,7 @@ body{
 }
 .ty{
     width: 500px;
-    height: 700px;
+    height: 550px;
     position: absolute;
     margin-top: 0%;
     border-radius: 50%;
@@ -74,13 +74,25 @@ body{
 #about{
     margin-left: 89%;
     margin-top: 5%;
-    font-weight: 500;
-    
+    font-weight: 500;      
 }
+
+
 #footer{
     margin-top: -10%;
     margin-left: 5%;
     margin-bottom: 200% ;
     font-size: 110%;
     font-weight: 800;
+}
+#others{
+    position: absolute;
+    left: 800px; ;
+
+}
+
+#language{
+    position: absolute;
+    left: 1250px; ;
+
 }
